@@ -1,1 +1,8 @@
 
+gcc -g p1original.c -lm
+ ./a.out
+enter the first points 
+2 3
+enter the second points 
+1 5
+the distance between 2 points is 5243747.000000
